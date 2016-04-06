@@ -1,6 +1,3 @@
-#include <iostream>
-#include <time.h>
-
 #include "head.h"
 
 using namespace std;
